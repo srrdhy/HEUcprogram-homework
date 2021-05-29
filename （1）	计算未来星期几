@@ -18,3 +18,5 @@ int main()
     printf("The date you input is %d", w);
     system("pause");
 }
+//说明：输入日期比如：2021 5 29
+//周日为数字0
